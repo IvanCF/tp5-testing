@@ -13,8 +13,8 @@ Docentes:
 
 ## TEMA: Aplicación de técnicas de testing web 
 
-* Dentro del Master Test Plan se planificó aplicar la técnica de "State Transition Testing". 
-* En el presente práctica se enfoca en aplicar un ejemplo de caja negra para la función de Login del sistema del TP final.
+Dentro del Master Test Plan se planificó aplicar la técnica de "State Transition Testing". 
+
 
 ## State Transition Testing:
 es un tipo de prueba de software que se realiza para verificar el cambio en el estado de la aplicación con una entrada variable. Se cambia la condición de entrada pasada y se observa el cambio de estado.
@@ -36,7 +36,10 @@ Se solicita entregar:
 * Documento Master Test Plan modificado.
 * Documento con el desarrollo de la acción de test.
 
-En la siguiente imagen se muestra las capas usadas en la aplicación de prueba.
+Desarrollo:
+
+* La presente práctica se enfoca en aplicar un ejemplo de test de caja negra para la función de Login del sistema del TP final.
+* La estrutura funcional de las capas usadas en la aplicación de prueba, se aprecia en la siguiente imagen.
 
 <p align="center">
     <img src="imagenes/capas-funcional.jpg">
