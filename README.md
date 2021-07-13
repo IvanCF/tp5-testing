@@ -27,7 +27,6 @@ State Transition Testing es básicamente una técnica de prueba de "caja negra" 
 
 Modificación al Master Test Plan
 
-```
 Agregar una característica a determinar al master test plan y desarrollar una acción de test de un test case sencillo de esta característica.
 
 Se solicita entregar:
@@ -35,7 +34,6 @@ Se solicita entregar:
 * Documento Master Test Plan modificado.
 * Documento con el desarrollo de la acción de test.
 
-```
 
 En la siguiente imagen se muestra las capas usadas en la aplicación de prueba.
 
@@ -51,12 +49,13 @@ Enlace oficial: https://wapiti.sourceforge.io/
 
 Módulo funcional a usar:
 
-![imagen_bdd](imagenes/aplicacion.jpg)
+<p align="right">
+    
+    <img src="imagenes/aplicacion.jpg"> 
+</p>
 
-```
- En el siguiente video se muestra el Funcionamiento de lo aplicado durante la práctica:
+En el siguiente video se muestra el Funcionamiento de lo aplicado durante la práctica:
 
-```
 ![play1](imagenes/play.png) https://youtu.be/UMlD7U_ij_w
 
 ## Dependencias:
