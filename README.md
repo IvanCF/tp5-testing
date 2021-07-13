@@ -49,9 +49,8 @@ Enlace oficial: https://wapiti.sourceforge.io/
 
 Módulo funcional a usar:
 
-<p align="right">
-    
-    <img src="imagenes/aplicacion.jpg"> 
+<p align="center">
+    <img src="imagenes/aplicacion.jpg">
 </p>
 
 En el siguiente video se muestra el Funcionamiento de lo aplicado durante la práctica:
