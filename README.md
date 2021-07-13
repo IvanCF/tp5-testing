@@ -42,7 +42,7 @@ Desarrollo:
 * La estrutura funcional de capas que usa la aplicación de prueba, se aprecia en la siguiente imagen.
 
 <p align="center">
-    <img src="imagenes/capas-funcional.jpg">
+    <img src="imagenes/capas-funcional2.jpg">
 </p>
 
 # Herramienta usada: Wapiti 
