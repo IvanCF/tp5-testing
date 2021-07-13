@@ -23,10 +23,11 @@ State Transition Testing es básicamente una técnica de prueba de "caja negra" 
 
 ![imagen_bdd](imagenes/State_transition.jpg)
 
-## Práctica de estudio:
+## Práctica de estudio: 
 
-# Modificación al Master Test Plan
+Modificación al Master Test Plan
 
+```
 Agregar una característica a determinar al master test plan y desarrollar una acción de test de un test case sencillo de esta característica.
 
 Se solicita entregar:
@@ -34,14 +35,13 @@ Se solicita entregar:
 * Documento Master Test Plan modificado.
 * Documento con el desarrollo de la acción de test.
 
+```
 
 En la siguiente imagen se muestra las capas usadas en la aplicación de prueba.
 
 ![imagen_bdd](imagenes/capas-funcional.jpg)
 
-# Herramienta usada:
-
-# Wapiti: 
+# Herramienta usada: Wapiti 
 
 Es ana herramienta que realiza pruebas de caja negra al escanear páginas web e inyectar datos. Intenta inyectar cargas y ver si un script es vulnerable. Es compatible con los ataques GET y POSTHTTP y detecta múltiples vulnerabilidades.
 
@@ -49,9 +49,13 @@ Es ana herramienta que realiza pruebas de caja negra al escanear páginas web e 
 
 Enlace oficial: https://wapiti.sourceforge.io/
 
+Módulo funcional a usar:
+
+![imagen_bdd](imagenes/aplicacion.jpg)
 
 ```
  En el siguiente video se muestra el Funcionamiento de lo aplicado durante la práctica:
+
 ```
 ![play1](imagenes/play.png) https://youtu.be/UMlD7U_ij_w
 
